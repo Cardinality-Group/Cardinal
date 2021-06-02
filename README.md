@@ -1,5 +1,5 @@
-# Lambda Client (α 1.0)
-Lambda client is a actively in development "all in one" client designed with the goal of creating a premium experience with a free and open source client. The client has 3 planned stages of development, and is currently only in its infancy.
+# Cardinal Client (α 1.0)
+cardinal client is a actively in development "all in one" client designed with the goal of creating a premium experience with a free and open source client. The client has 3 planned stages of development, and is currently only in its infancy.
 
 The first stage, known as alpha, will involve on my end figuring out how to actually make a client, as I have little experience with minecraft, and I will first release a bare bones client with minimal modules and a half completed but functional gui, and then add on this until the gui is completed and it has modules equivalent to those you would expect in a PvP client. 
 
