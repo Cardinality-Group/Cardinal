@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "lambda",
+  "version": "${version}",
+
+  "name": "Lambda Client",
+  "description": "An all in one client similar to inertia client",
+  "authors": [
+    "OfficeWord",
+    "Arikian"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/Office-Word/Lambda"
+  },
+
+  "license": "GPLv3",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.lambda.Lambda"
+    ]
+  },
+  "mixins": [
+    
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
