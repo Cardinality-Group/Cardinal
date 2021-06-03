@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "lambda",
+  "id": "cardinal",
   "version": "${version}",
 
-  "name": "Lambda Client",
+  "name": "Cardinal Client",
   "description": "An all in one client similar to inertia client",
   "authors": [
     "OfficeWord",
@@ -11,7 +11,7 @@
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/Office-Word/Lambda"
+    "sources": "https://github.com/Cardinality-Group/Cardinal"
   },
 
   "license": "GPLv3",
@@ -20,7 +20,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.lambda.Lambda"
+      "net.cardinal.Cardinal"
     ]
   },
   "mixins": [
