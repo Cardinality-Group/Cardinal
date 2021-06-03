@@ -42,6 +42,8 @@ public class DiscordRP {
 			}
 		}.start();
 
+		//Todo: Implement more mixins
+		
 		DiscordRichPresence.Builder b = new DiscordRichPresence.Builder("Cardinal Client");
 		b.setBigImage("large", "");
 		b.setStartTimestamps(created);
